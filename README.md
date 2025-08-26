@@ -1,6 +1,6 @@
 # Hi there 👋
-This is Hammad Mustafa.
-A passionate **Web Developer** who enjoys building full-stack applications, learning new technologies, and solving real-world problems with code. I approach every project with curiosity, creativity, and consistency.  
+
+I’m a passionate **Web Developer** who enjoys building full-stack applications, learning new technologies, and solving real-world problems with code. I approach every project with curiosity, creativity, and consistency.  
 
 ---
 
