@@ -20,13 +20,13 @@ Git • GitHub • Postman • Vercel • Prisma
 
 ---
 
-## 📊 GitHub Stats  
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadmustafaa&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmustafaa&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect with Me  
-- Email: **hammadmustafa8401@gmail.com**  
-- LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/hammadmustafa67/)  
+- Email: **hammadmustafa8401@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadmustafa67)
+
+## 😊 Fun Facts
+- I know I’m a developer because I chatgpt my own bugs 🔍
+- Refactoring is just rewriting my old mistakes 🔄
+- I believe in “if it works, don’t touch it” 🙌
+- “One last line of code” actually means 3 more hours ⏳
