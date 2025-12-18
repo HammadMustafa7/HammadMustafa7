@@ -25,8 +25,3 @@ Git • GitHub • Postman • Vercel • Prisma
 - Email: **hammadmustafa8401@gmail.com**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadmustafa67)
 
-## 😊 Fun Facts
-- I know I’m a developer because I chatgpt my own bugs 🔍
-- Refactoring is just rewriting my old mistakes 🔄
-- I believe in “if it works, don’t touch it” 🙌
-- “One last line of code” actually means 3 more hours ⏳
