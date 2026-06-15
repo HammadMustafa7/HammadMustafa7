@@ -1,27 +1,25 @@
-# Hi there 👋
+# Hammad Mustafa
+### Full Stack Developer · MERN Stack · Next.js
 
-I’m a passionate **Web Developer** who enjoys building full-stack applications, learning new technologies, and solving real-world problems with code. I approach every project with curiosity, creativity, and consistency.  
-
----
-
-## 💪 Prowess  
-
-### 👨‍💻 Back-end Development:  
-Node.js (JavaScript & TypeScript) • Express.js • Next.js (Full-Stack) • Prisma • REST APIs  
-
-### 🗄️ Databases:  
-MongoDB • MySQL  
-
-### 🎨 Front-end Development:  
-HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS • Radix UI   
-
-### 🛠️ Familiar with:  
-Git • GitHub • Postman • Vercel • Prisma  
+Passionate about building full-stack web and mobile applications. I enjoy turning real-world problems into clean, scalable solutions — with curiosity, consistency, and care for code quality.
 
 ---
 
+**Frontend**
+`Next.js` `React.js` `TypeScript` `JavaScript` `Tailwind CSS` `Radix UI` `HTML5` `CSS3`
 
-## 🌐 Connect with Me  
-- Email: **hammadmustafa8401@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadmustafa67)
+**Backend**
+`Node.js` `Express.js` `Next.js API Routes` `Prisma ORM` `REST APIs`
 
+**Mobile**
+`React Native` `Expo`
+
+**Databases**
+`MongoDB` `MySQL`
+
+**Tools**
+`Git` `GitHub` `Postman` `VS Code`
+
+---
+
+📧 hammadmustafa8401@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/hammadmustafa67)
