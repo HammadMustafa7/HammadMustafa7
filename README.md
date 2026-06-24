@@ -10,7 +10,7 @@ I've contributed to real-world production projects — maintaining, optimizing, 
 ---
 
 **Frontend**
-`Next.js` `React.js` `TypeScript` `JavaScript` `Tailwind CSS` `Radix UI` `HTML5` `CSS3`
+`Next.js` `React.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
 
 **Backend**
 `Node.js` `Express.js` `Next.js API Routes` `Prisma ORM` `REST APIs`
